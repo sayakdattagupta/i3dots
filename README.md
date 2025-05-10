@@ -7,8 +7,9 @@ I HAVE included a picom startup, but it has been commented,  since picom runs po
 wall is stored in ~/Pictures/wall.jpg
 
 ### prereq
-i3 (gaps)
-polybar
-feh
-rofi
+i3 (gaps)<br>
+polybar<br>
+Alacritty<br>
+feh<br>
+rofi<br>
 awesome-fonts
